@@ -1,13 +1,11 @@
 # My .bash_profile
 
+```bash
 # Aliases 
 
 alias kubeclear="kubectl delete --all deployments && kubectl delete --all pods && kubectl delete --all services"
 
-## Prompt string
-
-```bash
-# Prompt string customisation
+# Prompt string
 
 # get current branch in git repo
 function parse_git_branch() {
