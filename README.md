@@ -1,4 +1,6 @@
-# my-bash-profile
+# My .bash_profile
+
+## Prompt string customisation copypasta
 
 ```bash
 # Prompt string customisation
