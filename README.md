@@ -1,6 +1,10 @@
 # My .bash_profile
 
-## Prompt string customisation copypasta
+# Aliases 
+
+alias kubeclear="kubectl delete --all deployments && kubectl delete --all pods && kubectl delete --all services"
+
+## Prompt string
 
 ```bash
 # Prompt string customisation
